@@ -10,10 +10,6 @@ namespace _20201211
     {
         static void Main(string[] args)
         {
-            int y = 42;
-            string x = $"Az élet értelme {y}.";
-            Console.WriteLine(x.ToUpper().Replace("e","ee").Length);
-
             //string a = "Hello World!";
             //for (int i = 0; i < a.Length; i++)
             //{
